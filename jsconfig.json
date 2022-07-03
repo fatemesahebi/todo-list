@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "baseUrl": "src",
+        "lib": ["dom"]
+    },
+    "include": ["src"]
+}
